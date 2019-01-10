@@ -43,6 +43,13 @@ footer ul {
   left: 0;
   padding: 1rem;
 }
+#quotesfooter{
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
 #quotes {
     font-family: "Courier New", Courier, monospace;
 }
