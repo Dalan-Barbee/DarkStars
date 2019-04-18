@@ -63,3 +63,6 @@ footer ul {
 .courier {
 font-family: "Courier New", Courier, monospace;
 }
+footer a {
+  color: rgb(255, 255, 255);
+}
